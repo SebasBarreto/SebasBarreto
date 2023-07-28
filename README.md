@@ -6,7 +6,7 @@ Hola, mi nombre es Sebas Barreto 👋
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-Soy Piloto de avion con licencia (PCA), me gusta programar y diseñar, en mi tiempo libre me gusta hacer un poco de gaming.
+Piloto de avion con licencia (PCA), me gusta programar y diseñar, en mi tiempo libre me gusta hacer un poco de gaming.
 
 en 2012 comienzo la carrera de aviador en la escuela de aviacion de los Andes, al mismo tiempo empiezo a estudiar programacion.
 Empezando por crear paginas web en lenguaje HTML, posterior diseño de imagen en aplicaciones como Corel draw & photoshop, y ultimo aprendiendo lenguaje Python, javaScrip, CSS, CSS+.
