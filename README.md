@@ -1,18 +1,15 @@
-
 Hola, mi nombre es Sebas Barreto 👋
 
-### Airplane pilot, programmer and gamer
-
+### Airplane pilot, Ethical hacker, Programmer and Gamer
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-Piloto de avion con licencia (PCA), me gusta programar y diseñar, en mi tiempo libre me gusta hacer un poco de gaming.
+Soy Piloto de avion con licencia (PCA), me gusta programar, hacking etico y diseñar, en mi tiempo libre me gusta hacer un poco de gaming.
 
-en 2012 comienzo la carrera de aviador en la escuela de aviacion de los Andes, al mismo tiempo empiezo a estudiar programacion.
-Empezando por crear paginas web en lenguaje HTML, posterior diseño de imagen en aplicaciones como Corel draw & photoshop, y ultimo aprendiendo lenguaje Python, javaScrip, CSS, CSS+.
-
+Experienced web developer with a comprehensive understanding of advanced web development. Expert in user interface design, testing and debugging processes, with experience in designing, installing, testing and maintaining web systems. Highly skilled cybersecurity professional with a focus on protecting critical systems and data. Extensive experience in implementing security measures, incident detection and response, and risk management. Demonstrated ability to identify vulnerabilities and develop effective strategies to mitigate cyber threats. Strong knowledge of security best practices, regulations and industry standards.
 
 ## Tecnologías:
+
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -22,12 +19,12 @@ Empezando por crear paginas web en lenguaje HTML, posterior diseño de imagen en
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px> </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px> </picture> Data Analysis
 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
 ![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
@@ -38,8 +35,6 @@ Empezando por crear paginas web en lenguaje HTML, posterior diseño de imagen en
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
 Y alguna más...
-
-
 
 <details>
   <summary>Connect with me  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></summary>
@@ -74,7 +69,5 @@ Y alguna más...
 </div>
 </details>
 
-
-    
 
     
